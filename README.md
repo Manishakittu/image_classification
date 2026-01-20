@@ -45,6 +45,3 @@ Key Learnings
 - GitHub provides a professional workflow for version control and submission.
 Author
 Pavan Kumar
-
-
-image_classification
